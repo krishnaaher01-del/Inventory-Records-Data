@@ -23,22 +23,22 @@ Key columns used:
  Sample data used for analysis and visualization.
 
 4. Features / Highlights
-KPI Cards :
-* Total Units Sold
-* Total Cost
-* Total Available Stock
-* Low Stock Indicator
+ KPI Cards :
+  * Total Units Sold
+  * Total Cost
+  * Total Available Stock
+  * Low Stock Indicator
 
-Interactive Product Filter :
-* Product-wise slicer
-* Instantly filters charts & table
+ Interactive Product Filter :
+  * Product-wise slicer
+  * Instantly filters charts & table
 
-Visual Analysis :
-* Bar Chart – Product vs Total Units Sold
-* Column Chart – Product vs Hand-In-Stock
-* Table View – Detailed stock & cost breakdown
+ Visual Analysis :
+  * Bar Chart – Product vs Total Units Sold
+  * Column Chart – Product vs Hand-In-Stock
+  * Table View – Detailed stock & cost breakdown
 
-Inventory Monitoring :
-* Identify high-selling products
-* Detect low-stock items quickly
-* Helps avoid overstock & stock-out situations
+ Inventory Monitoring :
+  * Identify high-selling products
+  * Detect low-stock items quickly
+  * Helps avoid overstock & stock-out situations
